@@ -135,8 +135,6 @@ Evaluate how revenue evolves across customer cohorts and generate insights to dr
 - Keep high-value customers loyal with premium programs.
 - Encourage mid-value customers to spend more with targeted offers.
 - Re-engage low-value customers using discounts and campaigns.
-- Focus on strong onboarding in the first 1–2 years.
-- Run win-back campaigns for churned high-value users.
 - Use data to spot and prevent churn early.
 - Improve acquisition strategy to attract better long-term users.
 - Boost overall customer value with better retention efforts.
